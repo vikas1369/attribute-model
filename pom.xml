@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vikas</groupId>
 	<artifactId>attribute-model</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>attribute-model</name>
 	<description>Attribute model</description>
 	<properties>
