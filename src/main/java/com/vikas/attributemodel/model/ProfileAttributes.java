@@ -21,4 +21,5 @@ public class ProfileAttributes {
     public void setLePay(String lePay) {
         this.lePay = lePay;
     }
+
 }
