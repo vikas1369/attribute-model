@@ -1,4 +1,4 @@
-package model;
+package com.vikas.attributemodel.model;
 
 public class ProfileAttributes {
 
