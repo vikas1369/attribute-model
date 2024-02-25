@@ -1,6 +1,6 @@
 package com.vikas.attributemodel.model;
 
-public class ProfileAttributes {
+public class LoanAttributes {
 
     String rehypothecation;
 

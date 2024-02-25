@@ -47,6 +47,7 @@
 	</build>
 
 	<distributionManagement>
+		<!-- Below is required so that we know where to publish the artifacts-->
 		<repository>
 			<id>central</id>
 			<name>blue-releases</name>
